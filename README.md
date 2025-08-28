@@ -15,6 +15,5 @@
 - [To-Do List (React + Node.js)](link)  
 - [Portfólio Pessoal (HTML, CSS, JS)](link)  
 
-📫 Me encontre no [LinkedIn](https://linkedin.com/in/Dev.andreson)
-  -E-mail **dev.andreson@gmail.com**
-  -Instagram **https://www.instagram.com/dev.andreson**
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/andreson-rodrigues-50a915364)
+📸 **Instagram:** [instagram](https://www.instagram.com/dev.andreson) 
