@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Andreson!
 
-<!--
-**Dev-Andreson/Dev-Andreson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Desenvolvimento de Sistemas  
+💻 Interesses: Back-End | Front-End | APIs | Open Source  
+🚀 Sempre aprendendo e contribuindo para projetos de impacto  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- **Linguagens:** Java, JavaScript
+- **Web:** HTML, CSS, React, Node.js  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Versionamento:** Git/GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- [Controle de Estoque (Java + MySQL)](link)  
+- [To-Do List (React + Node.js)](link)  
+- [Portfólio Pessoal (HTML, CSS, JS)](link)  
+
+📫 Me encontre no [LinkedIn](https://linkedin.com/in/Dev.andreson) ou pelo e-mail **dev.andreson@gmail.com**
