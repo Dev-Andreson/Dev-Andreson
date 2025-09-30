@@ -11,6 +11,7 @@
 - **Versionamento:** Git/GitHub  
 
 ## 📌 Projetos em destaque
+- [Site Institucional Semear Capoeira (HTML, CSS, JS)]
 - [Controle de Estoque (Java + MySQL)](link)  
 - [To-Do List (React + Node.js)](link)  
 - [Portfólio Pessoal (HTML, CSS, JS)](link)  
