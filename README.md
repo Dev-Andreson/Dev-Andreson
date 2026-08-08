@@ -3,12 +3,20 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dev-Andreson&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Dev-Andreson&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-Andreson&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-Andreson&layout=compact&langs_count=4&theme=tokyonight)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## 🎯 Skills
+<div>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg" height= 50/>
+<img width="15"/>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height= 50/>
+<img width="15"/>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" height= 50/>
+<img width="15"/>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" height= 50/>
+<img width="15"/>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" height= 50/>
+<img width="15"/>
+<img src= "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" height= 50/>
+
 </div>
 
 ##
