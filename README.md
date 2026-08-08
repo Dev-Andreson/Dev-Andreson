@@ -1,4 +1,4 @@
-## Olá! Eu sou o Andreson Rodrigues, sou estudante de Desenvolvimento De Sistemas
+## 👋  Olá! Eu sou o Andreson Rodrigues, sou estudante de Desenvolvimento De Sistemas.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dev-Andreson&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Dev-Andreson&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-Andreson&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Dev-Andreson&layout=compact&langs_count=4&theme=tokyonight)
