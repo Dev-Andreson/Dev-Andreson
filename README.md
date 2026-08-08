@@ -35,3 +35,9 @@
   <img width="50" height="50" alt="HayGIF" src="https://github.com/user-attachments/assets/eb77eef2-934d-4c46-a8ae-15e913c34ff8" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-andreson/dev-andreson/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-andreson/dev-andreson/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-andreson/dev-andreson/output/pacman-contribution-graph.svg">
+</picture>
