@@ -40,10 +40,9 @@
 
 ##
 ## 📌 Projetos em destaque
-- [Gerenciamento De Frota (HTML, CSS, JS, Angular)]((https://github.com/Dev-Andreson/Gerenciamento-De-Frotas))
-- [Previsão Do Tempo (HTML, CSS, JS)](link)  
-- [Portfólio Pessoal (HTML, CSS, JS)](link)  
-  
+- [Gerenciamento De Frota (HTML, CSS, JS, Angular)](https://github.com/Dev-Andreson/Gerenciamento-De-Frotas)
+- [BiblioTech - Sistema de Gerenciamento de Livros (HTML, CSS, JS, React)](https://github.com/Dev-Andreson/BiblioTech)
+
   ##
  
 <div> 
