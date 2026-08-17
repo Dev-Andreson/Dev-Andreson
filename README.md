@@ -40,7 +40,7 @@
 
 ##
 ## 📌 Projetos em destaque
-- [Site Institucional Semear Capoeira (HTML, CSS, JS)](link)
+- [Gerenciamento De Frota (HTML, CSS, JS, Angular)]((https://github.com/Dev-Andreson/Gerenciamento-De-Frotas))
 - [Previsão Do Tempo (HTML, CSS, JS)](link)  
 - [Portfólio Pessoal (HTML, CSS, JS)](link)  
   
